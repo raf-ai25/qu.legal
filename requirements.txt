@@ -4,7 +4,6 @@ google-genai>=0.3.0
 pandas>=2.2.2
 openpyxl>=3.1.2
 fitz
-re
 datetime
-
 chromadb
+
