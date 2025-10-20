@@ -3,9 +3,9 @@ PyPDF2>=3.0.1
 google-genai>=0.3.0
 pandas>=2.2.2
 openpyxl>=3.1.2
-PyPDF2
 datetime
 chromadb
+
 
 
 
