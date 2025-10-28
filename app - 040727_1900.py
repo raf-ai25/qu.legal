@@ -1,7 +1,7 @@
 import streamlit as st
 from google import genai
 from google.genai import types
-import fitz  # PyMuPDF
+#import fitz  # PyMuPDF
 import re
 from datetime import datetime
 import chromadb
@@ -987,4 +987,5 @@ def main():
     ''', unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
